@@ -11,9 +11,7 @@
 - 📝 [Articles:《A Time and Location Correlation Incentive Scheme for Deeply Data Gathering in Crowdsourcing Networks》](https://www.hindawi.com/journals/wcmc/2018/8052620/)
 - 📫 [Blog:mafulong.top](https://mafulong.top)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1004&layout=compact)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafulong&theme=vue&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1004&layout=compact) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafulong&theme=vue&show_icons=true)
 
 
 ###### 💾 EOF
