@@ -1,7 +1,7 @@
-### Yoo, I'm mafulong 👋
+### Yoo, I'm mafulong 👋 [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/mafulong)](https://leetcode-cn.com/u/mafulong/)
 
 🎊 Hello world!
-[![LeetCode Rating](https://cp-logo.vercel.app/leetcode/lucifer1004)](https://leetcode-cn.com/u/lucifer1004/)
+
 - 🔭 Now: At ByteDance, Back-end Software Engineer 
 - 🌱 **PROFESSIONAL SKILLS**:
   - Programmer Languages: Golang(frequent), Python/C++/Java (Basic, once used).
