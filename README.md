@@ -1,4 +1,4 @@
-### Yoo, I'm mafulong 👋 [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/mafulong)](https://leetcode-cn.com/u/mafulong/)
+### Yoo, I'm mafulong 👋 [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/mafulong)](https://leetcode-cn.com/u/mafulong/) [LinkedIn](https://www.linkedin.com/in/fulong-ma-a8b12b147/)
 
 🎊 Hello world!
 
