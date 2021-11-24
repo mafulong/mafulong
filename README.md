@@ -1,4 +1,9 @@
-### Yoo, I'm mafulong 👋 [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/mafulong)](https://leetcode-cn.com/u/mafulong/) [LinkedIn](https://www.linkedin.com/in/fulong-ma-a8b12b147/) [My Blog](https://mafulong.github.io) [SCI Articles:《A Time and Location Correlation Incentive Scheme for Deeply Data Gathering in Crowdsourcing Networks》](https://www.hindawi.com/journals/wcmc/2018/8052620/) [My Patent List(20+)](https://github.com/mafulong/mafulong/blob/main/files/zhuanli.csv)
+### Yoo, I'm mafulong 👋 
+- [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/mafulong)](https://leetcode-cn.com/u/mafulong/) 
+- [LinkedIn](https://www.linkedin.com/in/fulong-ma-a8b12b147/) 
+- [My Blog](https://mafulong.github.io) 
+- [SCI Articles:《A Time and Location Correlation Incentive Scheme for Deeply Data Gathering in Crowdsourcing Networks》](https://www.hindawi.com/journals/wcmc/2018/8052620/) 
+- [My Patent List(20+)](https://github.com/mafulong/mafulong/blob/main/files/zhuanli.csv)
 
 🎊 Hello world!
 
