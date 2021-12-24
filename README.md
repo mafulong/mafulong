@@ -6,7 +6,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafulong&layout=compact) -->
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafulong&theme=vue&show_icons=true)
 
-###### 💾 EOF
-
-
 
